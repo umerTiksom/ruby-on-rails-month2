@@ -100,3 +100,25 @@
    gem "rails"
    gem "pg"
    gem "puma"
+
+5. Five Important Observations from Exploring a Generated Rails Application
+
+   Observation 1
+
+   Rails creates a complete project structure automatically so that we are creating it manual
+
+   Observation 2
+
+   The app/ directory contains most of the code related to business logic, views, and controllers.
+
+   Observation 3
+
+   Routing is centralized in config/routes.rb . All URLs are managed from one location.
+
+   Observation 4
+
+   Database changes are managed using migrations inside db/migrate/ .This allows version control of the database structure.
+
+   Observation 5
+
+   Rails follows strong conventions which means developers can easily understand and work on different Rails projects because the structure remains consistent.
