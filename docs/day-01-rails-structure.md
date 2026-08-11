@@ -1,6 +1,6 @@
 1. What is Ruby on Rails?
 
-   Ruby on Rails (Rails) is an open-source web application framework written in the Ruby programming language. It supports MVC architecture that provides a default structure for database, web pages, and web services, it also uses web standards like JSON or XML for transfer data and HTML, CSS, and JavaScript for the user interface. Rails provides a set of tools, libraries, and conventions that help developers focus on business logic instead of writing repetitive configuration code. It is widely used for creating websites, APIs, e-commerce platforms, management systems, and SaaS applications.
+   Ruby on Rails is an open-source web application framework written in the Ruby programming language. It supports MVC architecture that provides a default structure for database, web pages, and web services, it also uses web standards like JSON or XML for transfer data and HTML, CSS, and JavaScript for the user interface. Rails provides a set of tools, libraries, and conventions that help developers focus on business logic instead of writing repetitive configuration code. It is widely used for creating websites, APIs, e-commerce platforms, management systems, and SaaS applications.
 
 2. Rails Philosophy
 
