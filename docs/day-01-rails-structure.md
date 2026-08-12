@@ -105,7 +105,7 @@
 
    Observation 1
 
-   Rails creates a complete project structure automatically so that we are creating it manual
+   Rails creates a complete project structure automatically so that we are not creating it manual
 
    Observation 2
 
